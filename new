@@ -1,0 +1,44 @@
+<!DOCTYPE html >
+< html  lang =" zh-CN " >
+  <头>
+    <元 字符集=“ utf-8 ” >
+    < meta  name =" viewport " content =" width=device-width, initial-scale=1 " />
+    < title >枯流涯的作业</ title >
+    <风格>  
+      身体{
+        边距： 0；
+      }
+    </风格>
+  </头>
+  <身体>
+    < div 样式="
+      背景颜色：#f1f1f1；
+      文本对齐：居中；
+      内边距：40px；
+    " >
+      < img  src =" https://tse1-mm.cn.bing.net/th/id/OET.120f202b7db7462db62659c8bbd043cc?w=272&h=272&c=7&rs=1&o=5&pid=1.9 " alt ="枯流涯" width = " 150 "高度= 150 " >
+    </ div >
+    < div 样式="
+      最大宽度：700px；
+      放大：30px 自动；
+      填充：15px；
+      行高：1.7；
+    " >
+      < p >凑字</ p >
+      < p >凑字</ p >
+      < p >凑字</ p >
+      < p >凑字</ p >
+      < p >凑字</ p >
+      < p >凑字</ p >
+      < p >凑字</ p >
+    </ div >
+    < div 样式="
+      背景颜色：#f1f1f1；
+      文本对齐：居中；
+      内边距：40px；
+    " >
+      < p >枯流涯</ p >
+      <a href="https://space.bilibili.com/163956353?spm_id_from=333.788.0.0" >我的 b站账号
+     </ div >
+  </正文>
+</ html >
